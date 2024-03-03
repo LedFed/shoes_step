@@ -2,7 +2,7 @@
   "files": {
     "main.css": "/static/css/main.93ed40fd.css",
     "main.js": "/static/js/main.06327b50.js",
-    "static/media/banner.png": "https://ledfed.github.io/shoes_step/static/media/banner.6c4362e5259a6557489c.png",
+    "static/media/banner.png": "/shoes_step/static/media/banner.6c4362e5259a6557489c.png",
     "static/media/slick.svg": "https://ledfed.github.io/shoes_step/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "https://ledfed.github.io/shoes_step/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "https://ledfed.github.io/shoes_step/static/media/slick.c94f7671dcc99dce43e2.ttf",

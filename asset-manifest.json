@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.93ed40fd.css",
-    "main.js": "/static/js/main.06327b50.js",
-    "static/media/banner.png": "../../shoes_step/static/media/banner.6c4362e5259a6557489c.png",
-    "static/media/slick.svg": "https://ledfed.github.io/shoes_step/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "https://ledfed.github.io/shoes_step/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "https://ledfed.github.io/shoes_step/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "https://ledfed.github.io/shoes_step/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "https://ledfed.github.io/shoes_step/index.html",
-    "static/media/arrow.svg": "https://ledfed.github.io/shoes_step/static/media/arrow.579c3644ad4e4dfc0c9e.svg",
-    "main.93ed40fd.css.map": "https://ledfed.github.io/shoes_step/static/css/main.93ed40fd.css.map",
-    "main.06327b50.js.map": "https://ledfed.github.io/shoes_step/static/js/main.06327b50.js.map"
+    "main.js": "/static/js/main.b54d77ad.js",
+    "static/media/banner.png": "/static/media/banner.6c4362e5259a6557489c.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.579c3644ad4e4dfc0c9e.svg",
+    "main.93ed40fd.css.map": "/static/css/main.93ed40fd.css.map",
+    "main.b54d77ad.js.map": "/static/js/main.b54d77ad.js.map"
   },
   "entrypoints": [
     "static/css/main.93ed40fd.css",
-    "static/js/main.06327b50.js"
+    "static/js/main.b54d77ad.js"
   ]
 }
